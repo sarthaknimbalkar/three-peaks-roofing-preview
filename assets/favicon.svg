@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="3 Peaks">
+  <rect width="64" height="64" rx="13" fill="#141210"/>
+  <path d="M4 50 L19 27 L31 45 Z" fill="#B84A14"/>
+  <path d="M33 50 L47 29 L60 50 Z" fill="#B84A14"/>
+  <path d="M16 50 L33 20 L49 50 Z" fill="#E85D18"/>
+</svg>
